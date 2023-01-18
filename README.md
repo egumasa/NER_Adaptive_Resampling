@@ -1,6 +1,6 @@
 # NER_Adaptive_Resampling
 
-In this repo, you can find implementation of our work
+In this forked repo, you can find implementation of the following work
 
 > Xiaochen Wang, Yue Wang (2022). Sentence-Level Resampling for Named Entity Recognition. The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies, (NAACL). Accepted, to appear.
 
